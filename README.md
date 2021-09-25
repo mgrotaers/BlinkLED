@@ -1,5 +1,7 @@
 # BlinkLED
-Raspberry Pi SPI Blink tester for ATtiny2313
+This is the basic hello world LED blinker to test microcontrollers.
+
+One test is for uploading using Raspberry Pi SPI Blink tester for ATtiny2313
 
 For test compile and upload using Raspberry Pi using SPI:
 
